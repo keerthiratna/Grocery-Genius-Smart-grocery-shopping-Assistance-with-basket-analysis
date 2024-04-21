@@ -1,8 +1,8 @@
 MARKET BASKET ANALYSIS
- 
 ===================================
+
 1.INTRODUCTION:
-=============
+===================
     Market Basket Analysis (MBA) is a data mining technique used by retailers and marketers to understand the relationships between products purchased together by customers. It is based on the concept of association rules, which identify patterns of co-occurrence or association among items in transactional data.
 
 The primary objective of Market Basket Analysis is to uncover hidden patterns in customer purchasing behavior and extract actionable insights to improve business operations, such as product placement, pricing strategies, and targeted marketing campaigns. By analyzing transactional data, MBA helps retailers identify product associations, cross-selling opportunities, and trends that can be leveraged to enhance customer satisfaction and drive sales.
@@ -11,8 +11,10 @@ One of the most widely used algorithms for Market Basket Analysis is the Apriori
 
 Overall, Market Basket Analysis enables retailers to optimize product assortments, increase revenue, and enhance customer experiences by understanding and leveraging the relationships between items purchased by customers.
 
+![img](Images/image.jpeg)
+
 APPLICATIONS AND IMPORTANCE OF MBA:
-===================================
+=====================================
 
    1. Optimizing Product Assortment: MBA helps retailers understand which products are frequently purchased together, allowing them to optimize their product assortments. By identifying             complementary and substitute products, retailers can ensure that they stock the right mix of items to meet customer needs and preferences.
 
@@ -31,7 +33,7 @@ APPLICATIONS AND IMPORTANCE OF MBA:
     Market Basket Analysis is a powerful tool that enables retailers to better understand customer behavior, optimize business operations, and drive sales and profitability. Its applications extend across various industries, including retail, e-commerce, hospitality, and more, making it a valuable asset for organizations seeking to gain a competitive edge in today's dynamic marketplace.
 
 2. DATA DESCRIPTION :
-==================
+=========================
 
 The dataset used for Market Basket Analysis typically contains transactional data from a retail or e-commerce environment. Here's a brief description of the columns commonly found in my  dataset:
 
@@ -62,7 +64,7 @@ STEP-3 :  Scale Numerical Features
 
 
 3.METHODOLOGY :
-===============
+==================
 
 The Apriori algorithm is a popular algorithm used in Market Basket Analysis (MBA) to identify frequent item sets and generate association rules from transactional data. Here's a brief overview of the algorithm and its role in MBA:
 
